@@ -4,7 +4,7 @@ SemiFinals Lesson 1: Github Repository (Nov. 3 - Nov. 5, 2021)
 <!DOCTYPE html>
 <html>
 <head>
-<title> </title>
+<title> Github Repository </title>
 <style type="text/css">
 
 body{
